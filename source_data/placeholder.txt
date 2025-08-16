@@ -1,0 +1,20 @@
+put four datasets here
+将四个数据集分类放入此文件夹，总大小约10G
+├── source_data/                # 数据集总目录
+│   ├── dataset_CACLE/           # 数据集1
+│   │   ├──CSV_data
+│   │
+│   │
+│   │
+│   ├── dataset_HUST/           # 数据集2
+│   │   ├──pkl_data
+│   │
+│   │
+│   │
+│   ├── dataset_Oxford/           # 数据集3
+│   │   ├──mat_data
+│   │
+│   │
+│   │
+│   └── dataset_XJTU/           # 数据集4
+│       ├──mat_data

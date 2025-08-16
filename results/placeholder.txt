@@ -1,0 +1,24 @@
+The result data of train on four datasets
+模型在四个数据集上的训练结果数据
+
+the format is .npz
+格式是npz格式
+
+├── results/                # 数据集总目录
+│   ├── CACLE/           # 数据集1
+│   │   ├──result0.npz(result1、result2…………)
+│   │
+│   │
+│   │
+│   ├── HUST/           # 数据集2
+│   │   ├──result0.npz
+│   │
+│   │
+│   │
+│   ├── Oxford/           # 数据集3S
+│   │   ├──result0.npz
+│   │
+│   │
+│   │
+│   └── XJTU/           # 数据集4
+│       ├──result0.npz
